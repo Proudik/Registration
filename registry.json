@@ -23,8 +23,18 @@
       "instagram": " ",
       "youtube": " "
     },
-    "telegram": "altzpool",                                             
-    "operatorName": "Jose M.",                                  
+    {
+    "ticker": "STICK",                                                       
+    "poolId": "pool1hvl0yy8vrcuh747hj6eqyh75hp2spdy6263hlrgjmvtwkjxy904,  
+    "social": {              
+      "website":"https://coruna.io", 
+      "twitter": "CorunaWorld",
+      "facebook": " ",  
+      "instagram": " ",
+      "youtube": " "
+    },
+    "telegram": "CorunaWorld",                                             
+    "operatorName": "Martin",                                  
     "github": ""    
   },
   {
